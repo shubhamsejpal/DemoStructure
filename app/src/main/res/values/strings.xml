@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bazma Shop</string>
+    <string name="shemagh">Shemagh</string>
+    <string name="home">Home</string>
+    <string name="shop">Shop</string>
+    <string name="brands">Brands</string>
+    <string name="wishlist">Wishist</string>
+    <string name="me">Me</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sort">SORT</string>
+    <string name="refine">REFINE</string>
+</resources>
